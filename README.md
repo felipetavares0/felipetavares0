@@ -22,5 +22,5 @@
 
 Como estudante de análise de dados e machine learning, minha paixão por descobrir insights impulsiona meu crescimento diário. Estou comprometido em aprimorar minhas habilidades, buscando projetos desafiadores para expandir meu entendimento. Determinado a fazer a diferença, estou pronto para enfrentar desafios e abraçar oportunidades.
 
-##Meu E-mail ()
+
 
